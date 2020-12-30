@@ -8,7 +8,6 @@ import java.net.InetAddress;
 @RestController
 public class K8SController {
 
-
     @RequestMapping("/k8s")
     public String k8s(){
         return "hello K8s ========zou====888======";
