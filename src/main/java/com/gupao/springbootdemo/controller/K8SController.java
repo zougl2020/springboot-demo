@@ -10,6 +10,6 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        return "hello K8s 测试12345678";
+        return "hello K8s first ==== 123";
     }
 }
