@@ -10,6 +10,6 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        return "hello K8s 第10次提交";
+        return "hello K8s 第1111次提交";
     }
 }
