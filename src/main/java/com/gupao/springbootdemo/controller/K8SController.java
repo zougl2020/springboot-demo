@@ -10,6 +10,6 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        return "hello cicd k8s123456";
+        return "hello cicd k8s";
     }
 }
